@@ -12,31 +12,17 @@
   Hi 👋, I'm Mohammad Sheyam Hosen
 </h1>
 
-<h3 align="center">
-  💻 A Passionate Full-Stack Developer from Bangladesh 🇧🇩
-</h3>
+<br>
 
-<p align="center">
-  JavaScript • React • TypeScript • Node.js • Modern Web Development
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate web developer who enjoys building modern, responsive,
-and user-friendly web applications.
-
-I love working with **JavaScript, React, TypeScript, and Node.js**,
-and I'm continuously improving my skills through real-world projects
-and hands-on practice.
-
-- 🔭 Currently working on **Modern Web Development Projects**
-- 🌱 Currently learning **React, TypeScript, Node.js & Full-Stack Development**
-- 👯 Looking to collaborate on **Web Development & React Projects**
-- 🤝 Improving my skills in **Advanced JavaScript & Full-Stack Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, React & Responsive Web Design**
-- ⚡ Fun fact: **I enjoy turning ideas into websites.**
+- 👋 Hi, I’m [@sheyam-hosen](https://github.com/sheyam-hosen)
+- 💻 I’m currently working on **React.js, TypeScript and Modern Web Development.**
+- ⚛️ Building **responsive and user-friendly web applications** with React.
+- 🟢 Currently learning **Node.js, Express.js and Full-Stack Development.**
+- 🛠️ Improving my skills in **JavaScript, React, TypeScript and Backend Development.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, TypeScript and Responsive Web Design.**
+- 📚 I’m continuously learning and building **real-world projects.**
+- 🚀 My goal is to become a **strong Full-Stack Developer.**
+- 📧 Feel free to reach me out [Email](mailto:mohammadsiam756@gmail.com)
 
 ---
 
@@ -88,7 +74,7 @@ and hands-on practice.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:MohammadSiamHossain756@gmail.com">
+<a href="mailto:mohammadsiam756@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -134,8 +120,8 @@ and hands-on practice.
 - 🚀 Become a strong Full-Stack Developer
 - 💻 Build real-world web applications
 - ⚛️ Master React & TypeScript
-- 🟢 Improve Node.js & backend development
-- 🌎 Contribute to open-source projects
+- 🟢 Improve Node.js & Backend Development
+- 🌎 Contribute to Open-Source Projects
 - 📚 Keep learning new technologies
 
 ---
