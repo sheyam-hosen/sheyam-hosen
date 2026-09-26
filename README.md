@@ -49,13 +49,6 @@
 </a>
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheyam-hosen&show_icons=true&locale=en&layout=compact" alt="sheyam-hosen" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheyam-hosen&show_icons=true&locale=en" alt="sheyam-hosen" />
-</p>
 
 <p>
 <img align="center" src="https://streak-stats.demolab.com/?user=sheyam-hosen" alt="sheyam-hosen" />
